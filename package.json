@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@wormhole-foundation/sdk": "^1.10.0",
+    "dotenv": "^16.4.7"
+  }
+}
